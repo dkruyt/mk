@@ -1,0 +1,21 @@
+{
+  "name": "phantagom/baragon",
+  "vendorId": "0xF8E8",
+  "productId": "0x0004",
+  "keycodes": ["qmk_lighting"],
+  "menus": ["qmk_rgblight"],
+  "matrix": {
+    "rows": 3,
+    "cols": 4
+  },
+  "layouts": {
+    "keymap": [
+
+["0,0","0,1","0,2"],
+[{"y":-0.25,"x":3.5,"w":1.5,"h":1.5},"0,3\n\n\n\n\n\n\n\n\ne0"],
+[{"y":-0.75},"1,0","1,1","1,2"],
+["2,0","2,1","2,2"]
+
+    ]
+  }
+}
